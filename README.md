@@ -1,2 +1,2 @@
-# Algoritmos
-Algunas implementaciones triviales de algoritmos revisados en el curso de Análisis de Algoritmos.
+# Análisis de Algoritmos
+Aquí se subirán algunas implementaciones de algoritmos vistos en clase. Para la implementación de estos algoritmos se utilizará el lenguaje de programación Python.
